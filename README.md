@@ -10,7 +10,9 @@ N/A
 
 ## Usage
 
-This webpage displays the main focuses of the work by Horiseon Marketing Agency. It includes links in the navigation bar that direct viewers to specific sections of the webpage. The links are displayed as the titles of the sections that they direct the viewer to. 
+This webpage displays the main focuses of the work by Horiseon Marketing Agency. It includes links in the navigation bar that direct viewers to specific sections of the webpage. The links are displayed as the titles of the sections that they direct the viewer to. The website can be viewed at: https://halversonm.github.io/horiseon-code-refactor/
+An image of the website can be viewed below:
+![screenshot of my website](/assets/images/website-screenshot.png)
 
 ## Credits
 
